@@ -37,7 +37,7 @@ power_calculator
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Power Calculator by Balamurugan S</title>
+    <title>Power Calculator by Jithesh S</title>
 
     <style>
         body {
